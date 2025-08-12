@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {
+    "net8.0": {
       "coverlet.collector/6.0.2": {
         "type": "package",
         "build": {
@@ -1032,7 +1032,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net9.0": [
+    "net8.0": [
       "Microsoft.NET.Test.Sdk >= 17.12.0",
       "ThisNotesForYou >= 1.0.0",
       "coverlet.collector >= 6.0.2",
@@ -1062,7 +1062,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net9.0"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -1070,8 +1070,8 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {
             "C:\\Users\\free2c0ma\\Desktop\\c_less\\1_1_less\\ThisNotesForYou\\ThisNotesForYou\\ThisNotesForYou.csproj": {
               "projectPath": "C:\\Users\\free2c0ma\\Desktop\\c_less\\1_1_less\\ThisNotesForYou\\ThisNotesForYou\\ThisNotesForYou.csproj"
@@ -1092,8 +1092,8 @@
       "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
