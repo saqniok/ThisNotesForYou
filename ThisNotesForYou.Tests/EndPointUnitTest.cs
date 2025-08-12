@@ -14,7 +14,7 @@ public class EndpointUnitTests
             for (int i = 0; i < 12; i++)
                 col.Insert(new Note { Title = $"Note {i}", Text = "t" });
 
-            var result = Endpoints.GetNotes(5, col);
+            var result = await Endpoints.GetNotes(5, col);
 
             Assert.IsType<Ok<List<NoteDto>>>(result);
             var list = result.Value!;
