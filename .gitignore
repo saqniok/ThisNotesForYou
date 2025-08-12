@@ -14,5 +14,12 @@ obj/
 .vscode/
 
 # Others
+*.db
 *.log
 *.vs/
+
+# Test results and coverage
+TestResults/
+*.coverage
+coverage.json
+coverlet/
