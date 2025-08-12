@@ -1,0 +1,6 @@
+C:\Users\free2c0ma\Desktop\c_less\1_1_less\ThisNotesForYou\ThisNotesForYou.Tests\obj\Debug\net9.0\ThisNotesForYou.Tests.csproj.AssemblyReference.cache
+C:\Users\free2c0ma\Desktop\c_less\1_1_less\ThisNotesForYou\ThisNotesForYou.Tests\obj\Debug\net9.0\ThisNotesForYou.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\free2c0ma\Desktop\c_less\1_1_less\ThisNotesForYou\ThisNotesForYou.Tests\obj\Debug\net9.0\ThisNotesForYou.Tests.AssemblyInfoInputs.cache
+C:\Users\free2c0ma\Desktop\c_less\1_1_less\ThisNotesForYou\ThisNotesForYou.Tests\obj\Debug\net9.0\ThisNotesForYou.Tests.AssemblyInfo.cs
+C:\Users\free2c0ma\Desktop\c_less\1_1_less\ThisNotesForYou\ThisNotesForYou.Tests\obj\Debug\net9.0\ThisNotesForYou.Tests.csproj.CoreCompileInputs.cache
+C:\Users\free2c0ma\Desktop\c_less\1_1_less\ThisNotesForYou\ThisNotesForYou.Tests\obj\Debug\net9.0\ThisNotesForYou.Tests.sourcelink.json
