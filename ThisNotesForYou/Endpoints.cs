@@ -1,9 +1,7 @@
 using LiteDB;
-using Microsoft.AspNetCore.Http.HttpResults;
-using ThisNotesForYou.Models;
 
-namespace ThisNotesForYou
-{
+namespace ThisNotesForYou;
+
     public static class Endpoints
     {
         public static IResult GetNotes(int? pageSize, ILiteCollection<Note> col)
@@ -40,4 +38,4 @@ namespace ThisNotesForYou
                 return Results.NotFound();
         }
     }
-}
+

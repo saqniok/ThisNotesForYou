@@ -1,7 +1,6 @@
 using LiteDB;
-using System;
 
-namespace ThisNotesForYou.Models;
+namespace ThisNotesForYou;
     public class Note
     {
         [BsonId]

@@ -1,4 +1,4 @@
-using ThisNotesForYou.Models;
+namespace ThisNotesForYou;
 
 public class NoteDto
 {

@@ -1,5 +1,4 @@
 using LiteDB;
-using ThisNotesForYou.Models;
 using ThisNotesForYou;
 
 var builder = WebApplication.CreateBuilder(args);

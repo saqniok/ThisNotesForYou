@@ -1,4 +1,4 @@
-namespace ThisNotesForYou.Models;
+namespace ThisNotesForYou;
 public class CreateNote
 {
     public string Title { get; }
