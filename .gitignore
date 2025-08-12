@@ -1,0 +1,18 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider, VSCode settings etc.
+.idea/
+.vscode/
+
+# Others
+*.log
+*.vs/
