@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X5elFnrsXQg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\free2c0ma\\Desktop\\c_less\\1_1_less\\ThisNotesForYou\\ThisNotesForYou\\ThisNotesForYou.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\free2c0ma\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
+    "C:\\Users\\free2c0ma\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+### Create a new note
+POST http://localhost:5088/notes
+Content-Type: application/json
+
+{
+  "title": "Blue Note",
+  "text": "Hello NoSQL"
+}
+
+### Get list of notes (up to 5)
+GET http://localhost:5088/notes?pageSize=5
+
+### Delete a note by Id (замени {{id}} на реальный GUID)
+DELETE http://localhost:5088/notes/{{id}}
