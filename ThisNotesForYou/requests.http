@@ -1,5 +1,5 @@
 ### Create a new note
-POST http://localhost:5088/notes
+POST http://localhost:5281/notes
 Content-Type: application/json
 
 {
@@ -8,7 +8,7 @@ Content-Type: application/json
 }
 
 ### Get list of notes (up to 5)
-GET http://localhost:5088/notes?pageSize=5
+GET http://localhost:5281/notes?pageSize=5
 
 ### Delete a note by Id (замени {{id}} на реальный GUID)
-DELETE http://localhost:5088/notes/{{$id}}
+DELETE http://localhost:5281/notes/{{$id}}
